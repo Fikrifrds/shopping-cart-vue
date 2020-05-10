@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Dell XPS 13 9380",
+    "price": 1080,
+    "imgUrl": "https://m.media-amazon.com/images/I/719tCHXNiXL._AC_UL320_.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Apple 13 inch MacBook Air",
+    "price": 799,
+    "imgUrl": "https://m.media-amazon.com/images/I/51-oeeCf1zL._AC_UY218_.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Lenovo IdeaPad 3",
+    "price": 450,
+    "imgUrl": "https://m.media-amazon.com/images/I/71MFkYd8TTL._AC_UY218_.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Acer Spin 3 Convertible Laptop",
+    "price": 176,
+    "imgUrl": "https://m.media-amazon.com/images/I/81H9y1pPW6L._AC_UY218_.jpg"
+  },
+  {
+    "id": 5,
+    "title": "CHUWI HeroBook Pro 14.1 inch",
+    "price": 269,
+    "imgUrl": "https://m.media-amazon.com/images/I/71jDooDQHpL._AC_UY218_.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Lenovo Ideapad L340",
+    "price": 868,
+    "imgUrl": "https://m.media-amazon.com/images/I/81XvT+ahkoL._AC_UY218_.jpg"
+  },
+  {
+    "id": 7,
+    "title": "HP 2020 Newest 17.3 Inch",
+    "price": 699,
+    "imgUrl": "https://m.media-amazon.com/images/I/61b7mU3bKbL._AC_UY218_.jpg"
+  },
+  {
+    "id": 8,
+    "title": "ASUS ROG Zephyrus Duo",
+    "price": 3699,
+    "imgUrl": "https://m.media-amazon.com/images/I/81e1pXhTE2L._AC_UY218_.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Acer Aspire 5 Slim Laptop",
+    "price": 579,
+    "imgUrl": "https://m.media-amazon.com/images/I/71sesDsw95L._AC_UY218_.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Alienware New M15",
+    "price": 1799,
+    "imgUrl": "https://m.media-amazon.com/images/I/7159o5Y0GIL._AC_UL320_.jpg"
+  }
+]
